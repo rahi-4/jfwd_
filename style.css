@@ -1,0 +1,13 @@
+.form{
+    background-color: aliceblue;
+    padding: 10px;
+}
+form input, select{
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+}
+.submit{
+    background-color: crimson;
+}
